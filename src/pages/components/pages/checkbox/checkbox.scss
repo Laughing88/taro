@@ -1,0 +1,22 @@
+.checkbox-list {
+  position: relative;
+  padding: 10px 15px;
+  background-color: #ffffff;
+}
+
+.checkbox-list__label {
+  position: relative;
+  display: flex;
+  padding: 10px 15px;
+}
+
+.select-box {
+  margin: 20px 0;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.simple-box {
+  flex-direction: row;
+  justify-content: center;
+}
